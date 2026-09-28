@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Radar Barça",
+  "short_name": "Radar Barça",
+  "description": "Stats du Barça 2026-27 et aide aux paris : minutes des buts, marchés, adversaires, cotes justes.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1a3f",
+  "theme_color": "#0c1a3f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
